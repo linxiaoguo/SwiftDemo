@@ -9,7 +9,7 @@ Demo using third party open source libraries Alamofire SwiftyJSON, Kingfisher, R
 
 
 ![image](https://github.com/linxiaoguo/SwiftDemo/blob/master/screenshots/2.png)
+![image](https://github.com/linxiaoguo/SwiftDemo/blob/master/screenshots/4.png)
 ![image](https://github.com/linxiaoguo/SwiftDemo/blob/master/screenshots/1.png)
 ![image](https://github.com/linxiaoguo/SwiftDemo/blob/master/screenshots/3.png)
-![image](https://github.com/linxiaoguo/SwiftDemo/blob/master/screenshots/4.png)
 ![image](https://github.com/linxiaoguo/SwiftDemo/blob/master/screenshots/5.png)
