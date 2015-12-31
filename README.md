@@ -7,6 +7,18 @@ and part of the UI. Suitable for swift language even beginner to learn.
 
 Demo using third party open source libraries Alamofire SwiftyJSON, Kingfisher, Reflect, etc.
 
+Alamofire
+https://github.com/Alamofire/Alamofire
+
+SwiftyJSON
+https://github.com/SwiftyJSON/SwiftyJSON
+
+Kingfisher
+https://github.com/onevcat/Kingfisher
+
+Reflect
+https://github.com/CharlinFeng/Reflect
+
 
 ![image](https://github.com/linxiaoguo/SwiftDemo/blob/master/screenshots/2.png)
 ![image](https://github.com/linxiaoguo/SwiftDemo/blob/master/screenshots/4.png)
